@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "files": [
+    "src/"
+],
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d .",
+    "deploy": "gh-pages -d dist",
     "start": "web-dev-server --node-resolve --open --watch",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"

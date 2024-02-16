@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/MarynaShavlak/goit-typescript-hw-01/issues"
   },
-  "homepage": "https://github.com/MarynaShavlak/goit-typescript-hw-01#readme",
+  "homepage": "https://github.com/MarynaShavlak/goit-typescript-hw-01",
   "devDependencies": {
     "@web/dev-server": "^0.4.2",
     "gh-pages": "^6.1.1"
